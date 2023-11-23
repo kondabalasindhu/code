@@ -1,0 +1,176 @@
+
+
+
+
+.mainheader {
+    clear: both;
+    display: flex;
+    padding: 20px 0;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+img {
+    vertical-align: middle;
+    max-width: 100%;
+
+}
+
+.display-5 {
+    font-size: calc(1.425rem + 2.1vw);
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+.qualification .col-sm-4 {
+    padding: 40px;
+
+}
+
+.bg-light {
+    background-color: #C4C4C4 !important;
+    padding: 100px;
+    text-align: center;
+    padding: #C4C4C4;
+    color: white;
+}
+
+
+.bg-light h1 {
+    font-size: 72px;
+    margin-bottom: 0;
+    line-height: 1.7;
+    font-weight: 800;
+}
+
+
+.progress1 {
+    background-color: #C4C4C4;
+    width: 52%;
+    /* height: 15px; */
+}
+
+.progress2 {
+    background-color: #C4C4C4;
+    width: 50%;
+}
+
+.progress3 {
+    background-color: #C4C4C4;
+    width: 50%;
+}
+
+
+
+.technical skills .col-sm-4 {
+    padding: 40px;
+}
+
+.d-flex3 {
+    display: flex !important;
+    width: 554px;
+    min-height: 409px;
+    left: 94px;
+    top: 842px;
+}
+
+.img2 {
+    vertical-align: right;
+    max-width: 100%;
+    width: 386px;
+    height: 431px;
+    left: 881px;
+    top: 791px;
+    margin-left: auto;
+}
+
+.test-module {
+    text-align: center;
+}
+
+.test-module img {
+    padding-bottom: 30px;
+
+}
+
+.tech {
+
+    font-weight: bold;
+    font-size: 48px;
+    padding-bottom: 72px;
+}
+
+
+.d-flex {
+    display: flex !important;
+    margin-right: auto !important;
+    margin-left: auto !important;
+}
+
+
+
+.type {
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;
+    padding-bottom: 57px;
+}
+footer {
+    color: #C4C4C4 !important;
+    padding: 40px 40px !important;
+    font-weight: 700;
+    font-size: 12px;
+}
+/* 
+button:not(:disabled),
+[type=button]:not(:disabled),
+[type=reset]:not(:disabled),
+[type=submit]:not(:disabled) {
+    cursor: pointer;
+    width: 200px;
+    height: 69px;
+    left: 1110px;
+    top: 3017px;
+    margin-left: 1000px;
+} */
+
+.btn-primary {
+    color: #fff;
+    background-color: #000000;
+    border-color: #fff;
+}
+
+.text-content {
+    color: #4028D8;
+    text-transform: uppercase;
+}
+.container.contact {
+    padding-top: 80px;
+}
+.form-control {
+    
+    padding: 0.5rem 0.75rem;
+   
+    border-radius: 0;
+}
+textarea.form-control {
+    min-height: 237px;
+    resize: none;
+}
+.btn-ini {
+    min-height: 69px;
+    background-color: 000000;
+    padding: 10px 40px;
+    min-width: 200px;
+    color: white;
+    border-radius: 0;
+}

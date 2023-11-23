@@ -1,0 +1,40 @@
+{
+  "name": "react-portfolio",
+  "version": "1.0.0",
+  "description": "https://www.figma.com/file/Xap5uCibflMi5zwk8n3tkm/Personal-Portfolio?node-id=2%3A2",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@deckdeckgo/youtube": "2.1.0",
+    "@makotot/ghostui": "2.0.0",
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "emailjs-com": "3.2.0",
+    "font-awesome": "^4.7.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-icons": "^4.12.0",
+    "react-lazy-load": "3.1.13",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "4.0.0",
+    "react-tabs": "3.2.2",
+    "react-wavify": "^1.9.0",
+    "simple-react-modal": "0.5.1"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
